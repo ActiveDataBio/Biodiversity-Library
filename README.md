@@ -5,7 +5,7 @@
 <!--adbio-title-->
 #Biodiversity-Library
 <!--adbio-description-->
-Biodiversity-Library
+Biodiversity Library
 <!--adbio-funding-->
 <!--adbio-publication-->
 <!------------------------------------------------------------------------------>
